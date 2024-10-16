@@ -1,0 +1,10 @@
+batch_size: 16
+sample_rate: 16000
+segment_length_train: 1
+segment_length_test: 5
+num_workers: 10
+devices: [1, 2]
+train_dir: "datasets/train"
+test_dir: "datasets/test"
+log_dir: './'
+log_name: 'logs'

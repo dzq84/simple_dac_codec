@@ -1,0 +1,8 @@
+argbind
+einops
+numpy
+torch
+torchaudio
+tqdm
+tensorboard
+pyyaml
